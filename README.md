@@ -1,6 +1,5 @@
 # dicom-tools
-Tools to parse large DICOM database to formats suitable for deep learning.
-
+Tools to parse large DICOM database to an Sqlite database, which enables easy parsing and localization of the files you need for further analysis.
 
 ## Installation
 In Ubuntu 18.04 you need to have CMake 3.15, which is not in the apt repository. Additionally you need:
